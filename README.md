@@ -27,7 +27,7 @@ This project is a web page with instructions on how to make a simple omelette. T
 ### Links
 
 - Solution URL: [Github repository](https://github.com/Riska997/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://riska997.github.io/recipe-page-main/)
 
 ## My process
 Development
