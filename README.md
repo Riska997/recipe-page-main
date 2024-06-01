@@ -22,7 +22,7 @@ This project is a web page with instructions on how to make a simple omelette. T
 
 ### Screenshot
 
-![](assets/images/Screenshot%20of%20im.png)
+![assets/images/Screenshot.jpeg](assets/images/Screenshot.jpeg)
 
 ### Links
 
@@ -44,10 +44,6 @@ Testing
 
 -Functionality Testing: Validate the functionality of interactive elements such as links, buttons, and forms to ensure they perform as expected.
 
-Deployment
--Version Control: Use version control with Git and GitHub to manage project files, track changes, and collaborate with team members if applicable.
-
-Deployment: Deploy the web page to a web server or hosting platform to make it accessible to users on the internet.
 
 ### Built with
 
