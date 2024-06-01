@@ -54,26 +54,6 @@ README Creation:
 Crafting this README.md file has provided me with valuable experience in effectively communicating project details. From outlining the project's purpose and features to listing the technologies used and providing installation instructions, I've learned the importance of clear and concise documentation for facilitating understanding and collaboration.
 
 
-To see how you can add code snippets, see below:
-
-```html
-<h3 class="indented-list">Preparation time</h3>
-```
-<td class="bold-text">277kcal</td>
-
-```css
-@media screen and (max-width: 640px) {
- 
-}
-
-body.young-serif-regular {
-  font-family: "Young Serif", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-```
-
 ### Continued development
 
 Moving forward, I plan to focus on the following areas:
