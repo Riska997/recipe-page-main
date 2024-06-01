@@ -30,20 +30,6 @@ This project is a web page with instructions on how to make a simple omelette. T
 - Live Site URL: [Github Pages](https://riska997.github.io/recipe-page-main/)
 
 ## My process
-Development
--HTML Structure: Develop the HTML structure of the web page, including elements for headings, paragraphs, lists, tables, images, and links.
-
--CSS Styling: Apply CSS styling to enhance the appearance and layout of the web page, including fonts, colors, margins, padding, and responsiveness for different screen sizes.
-
--Media Queries: Implement media queries to ensure that the web page displays properly on various devices, including desktops, tablets, and smartphones.
-
-Testing
--Cross-Browser Testing: Test the web page on different web browsers such as Chrome, Firefox, Safari, and Edge to ensure compatibility and consistent display.
-
--Responsive Testing: Use responsive design testing tools or manually resize the browser window to verify that the web page adapts correctly to different screen sizes.
-
--Functionality Testing: Validate the functionality of interactive elements such as links, buttons, and forms to ensure they perform as expected.
-
 
 ### Built with
 
@@ -113,7 +99,7 @@ These resources played a significant role in my learning journey and were instru
 
 ## Author
 
--LinkedIn - [Prisca_Mulihi](www.linkedin.com/in/prisca-mulishi-3994702a2)
+- LinkedIn - [Prisca_Mulihi](www.linkedin.com/in/prisca-mulishi-3994702a2)
 - Frontend Mentor - [@Riska997](https://www.frontendmentor.io/profile/Riska997)
 
 ## Acknowledgments
